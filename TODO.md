@@ -1,3 +1,3 @@
-- [ ] show available chapters for the specified manga
+- [x] show available chapters for the specified manga
 - [ ] more options for manga pages
 - [ ] better project structure
